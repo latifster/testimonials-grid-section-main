@@ -89,6 +89,9 @@ section .secondary-info {
 
 @media (min-width: 1024px) {
     
+    body {
+        padding: 5rem;
+    }
     main {
         margin: 0;
         padding: 100px;
